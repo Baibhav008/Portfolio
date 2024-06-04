@@ -1,4 +1,12 @@
-# React + Vite
+My Portfolio Website made using Vite
+
+Deployment Link : https://baibhav-orpin.vercel.app
+
+Screenshots :
+![image](https://github.com/Baibhav008/Portfolio/assets/119806719/733f477f-7fd0-40be-8c76-4ed6ed8669ba)
+![image](https://github.com/Baibhav008/Portfolio/assets/119806719/41607ffb-cf97-49a0-b56e-0ec58cd5128f)
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
