@@ -79,7 +79,7 @@ const Navbar = () => {
           <li key={"Resume"}  className={`${
                 active === "Resume" ? "text-white" : "text-secondary"
               } hover:text-white text-[18px] font-medium cursor-pointer`}
-              onClick={() => setActive("Resume")}><a  href="https://drive.google.com/file/d/1txZAV8ayC9hbqh5PZ5TImHbFvTFsaoA9/view" target='_blank'>Resume</a>
+              onClick={() => setActive("Resume")}><a  href="https://drive.google.com/file/d/1ayP2P8cxrlCGJd4sdSXZBACgX4QouHJC/view" target='_blank'>Resume</a>
           </li>
 
           
